@@ -1,4 +1,4 @@
-package com.fluxocaixa;
+package com.fluxodecaixaarbigaus;
 
 import com.facebook.react.ReactActivity;
 
